@@ -492,8 +492,8 @@ function App() {
             <div>
               <h4 className="text-lg font-semibold mb-4">Support</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>Emergency: +91 98765 43210</li>
-                <li>Help: help@swasthyaseva.org</li>
+                <li>Emergency: +91 8910747038</li>
+                <li>Help: sumtraaloke@gmail.com</li>
                 <li>Volunteer: join@swasthyaseva.org</li>
                 <li>Donate: donate@swasthyaseva.org</li>
               </ul>
