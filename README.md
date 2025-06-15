@@ -131,9 +131,9 @@ The website follows a human-centric design approach with:
 
 ## 📞 Contact & Support
 
-- **Emergency Helpline**: +91 98765 43210
-- **Email**: help@swasthyaseva.org
-- **Service Areas**: Bihar, Jharkhand, Odisha, Chhattisgarh
+- **Emergency Helpline**: +91 8910747038
+- **Email**: sumtraaloke@gmail.com
+- **Service Areas**: Kolkata, Bihar, Jharkhand, Odisha, Chhattisgarh
 
 ## 🤝 Contributing
 
