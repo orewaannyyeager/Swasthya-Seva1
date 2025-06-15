@@ -145,10 +145,6 @@ We welcome contributions from developers, healthcare professionals, and communit
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Medical professionals who provide telemedicine consultations
@@ -170,6 +166,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ for rural India | © 2024 Swasthya Seva
 
-[🌐 Website](https://orewaannyyeager.github.io/Swasthya-Seva/) • [📧 Contact](mailto:help@swasthyaseva.org) • [🐙 GitHub](https://github.com/orewaannyyeager/Swasthya-Seva)
+[🌐 Website](https://orewaannyyeager.github.io/Swasthya-Seva/) • [📧 Contact](mailto:sumtraaloke@gmail.com) • [🐙 GitHub](https://github.com/orewaannyyeager/Swasthya-Seva)
 
 </div>
