@@ -10,7 +10,7 @@ A modern, responsive website for Swasthya Seva - a student-led rural healthcare 
 
 ## 🌟 Live Demo
 
-🔗 **[View Live Website](https://orewaannyyeager.github.io/Swasthya-Seva/)**
+🔗 **[View Live Website](https://stupendous-pie-f077c5.netlify.app/)**
 
 ## 📋 About Swasthya Seva
 
